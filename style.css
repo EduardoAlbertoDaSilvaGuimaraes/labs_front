@@ -14,11 +14,30 @@
     text-align: right;
     width: 140px;
     padding-top: 8px;
+    
+    position: absolute;
+    top: 0px;
+    right: 0px;
+   
+    
 }
+
+.menu-opcoes {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    
+}
+
+header {
+    position: relative;
+
+}
+
 
 .menu-opcoes ul {
     color: var(--cor-menu);
-    font-size: 15px;
+    font-size: 15px;  
 }
 
 .menu-opcoes ul li {
@@ -39,7 +58,7 @@ body {
     font-weight: 400;
 }
 
-.conteainer {
+.conte                   ainer {
     margin: 0 auto;
     width: 90%;
 }

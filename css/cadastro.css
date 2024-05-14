@@ -44,7 +44,7 @@ fieldset legend {
 
 .grid-button-container input[type=reset] {
     background-color: orangered;
-}
+} 
 
 .grid-header-container {
     display: grid;
